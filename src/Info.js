@@ -14,6 +14,12 @@ const Info = () => {
 					herniated disk, which can lead to muscular degeneration
 				</div>
 			</div>
+			<div class="mb-10">
+				<div>
+					More than&nbsp;
+					<span class="text-red-500">8&nbsp;</span>million people are affected by carpal tunnel syndrome each year
+				</div>
+			</div>
 		</div>
 	);
 };

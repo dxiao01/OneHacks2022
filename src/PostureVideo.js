@@ -5,7 +5,7 @@ import useInterval from "@use-it/interval";
 
 let classifier;
 
-function Video() {
+function PostureVideo() {
 	const videoRef = useRef();
 	const [result, setResult] = useState([]);
 
@@ -52,4 +52,4 @@ function Video() {
 	);
 }
 
-export default Video;
+export default PostureVideo;

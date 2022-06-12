@@ -46,11 +46,11 @@ const Search = (props) => {
 	};
 
 	return (
-		<div class="">
+		<div class=" text-center">
 			<br />
 			<div class="">
 				<div class="">
-					<label htmlFor="">Location to search in</label>
+					<label htmlFor="">Location to search in 	&nbsp;</label>
 					<input
 						type="text"
 						class=""
