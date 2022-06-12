@@ -46,7 +46,7 @@ const Search = (props) => {
 	};
 
 	return (
-		<div class=" text-center">
+		<div class=" text-center text-xl">
 			<br />
 			<div class="">
 				<div class="">
@@ -60,7 +60,7 @@ const Search = (props) => {
 						placeholder="Dallas, TX"
 					/>
 				</div>
-				<button onClick={handleSubmit} class="">
+				<button onClick={handleSubmit} class=" hover:bg-gray-800 hover:text-white bg-white rounded-3xl mt-6 w-36 h-14">
 					Submit
 				</button>
 			</div>

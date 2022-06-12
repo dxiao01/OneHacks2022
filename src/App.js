@@ -6,7 +6,7 @@ import "./App.css";
 
 function App() {
 	return (
-		<div className="min-h-screen flex flex-col text-white bg-green-400">
+		<div className="min-h-screen flex flex-col text-black bg-green-400">
 			<main className="container mx-auto px-6 pt-16 flex-1 text-center">
 				<h2 className="text-2xl md:text-4xl lg:text-6xl uppercase">
 					Welcome to
